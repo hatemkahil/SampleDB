@@ -1,5 +1,5 @@
 {
-	"userInfo": [{
+	"userInfo": {
 	"remainingLeave": 15,
 	"leaveHistory": [{
 			"id": 1,
@@ -25,5 +25,4 @@
 	],
 	"errorMessage": "if there is an error to show the use"
 	}
-	]
 }
